@@ -1,0 +1,26 @@
+*{ background-color: chartreuse;
+   color: cornflowerblue;
+}
+
+.img{ 
+   opacity:0.5;    
+}
+
+
+
+img:hover {
+   border: 2px solid blue;
+opacity: 1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
