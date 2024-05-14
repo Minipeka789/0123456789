@@ -1,26 +1,30 @@
-*{ background-color: chartreuse;
+/* * {
+   background-color: chartreuse;
    color: cornflowerblue;
+} */
+
+body {
+   background-color: white;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+   height: 100vh;
+   margin: 10px;
+   padding: 10px;
 }
 
-.img{ 
-   opacity:0.5;    
+main {
+   background-color: antiquewhite;
+   width: 90%;
+   padding: 10px;
+   margin: 10px;
 }
 
-
+.img {
+   opacity: 0.5;
+}
 
 img:hover {
-   border: 2px solid blue;
-opacity: 1;
+   /* border: 2px solid blue; */
+   opacity: 101;
 }
-
-
-
-
-
-
-
-
-
-
-
-
